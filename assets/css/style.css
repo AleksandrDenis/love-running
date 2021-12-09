@@ -261,9 +261,10 @@ footer {
 
 .form-section {
     clear: left;
-    background-image: url(../images/formbg.jpg);
+    background-image: url(../images/formbg-min.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     height: 900px;
 
 }
