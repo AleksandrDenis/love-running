@@ -1,4 +1,5 @@
 # Project Name: Love-Running
+## you can view deployed project here  [Love Running](https://aleksandrdenis.github.io/love-running/)
 
 ## Project Purpose: 
 * The love-running project is a walkthrough initiative from the Code Institute, crafted to serve as a hands-on exercise.
